@@ -1,1 +1,1 @@
-# KateMaze
+# Kate's Maze
